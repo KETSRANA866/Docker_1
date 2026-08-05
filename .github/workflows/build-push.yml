@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: KETSRANA866/docker
+  IMAGE_NAME: ketsrana866/docker
 
 jobs:
   build-and-push:
